@@ -1,5 +1,5 @@
 ### hi, i'm andy! (he/him) 👋
-i'm a full stack MERN developer, specializing in front-end work. Looking for opportunities in web development!
+i'm a full stack MERN developer, specializing in front-end work.
 
 University of Minnesota & Trilogy Education Coding Bootcamp Graduate (September 2022)
 
