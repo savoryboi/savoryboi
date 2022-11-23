@@ -1,5 +1,5 @@
 ### hi, i'm andy! (he/him) 👋
-i'm a full stack developer, but I lean towards front-end.
+i'm a full stack developer, but I lean a little to the front-end.
 
 ## my stack
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
