@@ -1,7 +1,5 @@
 ### hi, i'm andy! (he/him) 👋
-i'm a full stack MERN developer, specializing in front-end work.
-
-University of Minnesota & Trilogy Education Coding Bootcamp Graduate (September 2022)
+i'm a full stack developer, but I lean towards front-end.
 
 ## my stack
  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
